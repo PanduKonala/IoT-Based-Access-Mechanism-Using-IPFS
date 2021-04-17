@@ -1,6 +1,6 @@
 ![](https://github.com/PanduKonala/PanduKonala/blob/main/header_.png)
 <br>
-# IOT Based Accsess Mechanism Using InterPlanatery File System
+# IoT Based Accsess Mechanism Using InterPlanatery File System
 
 ## Overview
 > This project is funded by Amrita Vishwa Vidyapeetham. The Objective of the project is to use an Interplanetary file system protocol for secure point to point communication between the User and an IoT device, where the device can be operated without any use of a third party vendor.
